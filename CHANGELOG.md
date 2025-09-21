@@ -10,3 +10,10 @@
 
 ## 0.1.0
 - Single-file initial release (UUIDv4/v7, ULID, Snowflake, NanoID).
+
+## 0.3.1 - 2025-09-21
+### Added
+- Symfony Bundle integration + CLI command `ndtid:make`
+- Benchmarks suite with phpbench
+- Static analysis configs (PHPStan lvl8, Psalm)
+- Composer scripts: analyse, bench

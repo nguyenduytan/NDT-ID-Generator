@@ -27,3 +27,14 @@ use Doctrine\DBAL\Types\Type;
 Type::addType('uuid7_binary', Uuid7BinaryType::class);
 Type::addType('ulid_char', UlidCharType::class);
 ```
+
+
+## Symfony
+- Bundle: `ndtan\Symfony\NdtIdBundle`
+- Service: `ndtid.manager`
+- Command: `php bin/console ndtid:make [driver] [count]`
+
+Example:
+```bash
+php bin/console ndtid:make uuid7 5
+```
