@@ -30,7 +30,7 @@
     "doctrine/dbal": "Use custom Doctrine types for UUIDv7/ULID."
   },
   "require-dev": {
-    "phpunit/phpunit": "^11.0",
+    "phpunit/phpunit": "^10.5",
     "phpstan/phpstan": "^1.11",
     "vimeo/psalm": "^5.0",
     "phpbench/phpbench": "^1.2"
