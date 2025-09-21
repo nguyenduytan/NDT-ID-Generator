@@ -1,6 +1,6 @@
 # Changelog
 
-## 0.3.0 (unreleased)
+## 0.3.0 - 2025-09-21
 - Added drivers: UUID v6/v8, KSUID, Mongo ObjectId, ShortUUID(Base58).
 - Added Laravel ServiceProvider + helper function.
 - Added Doctrine DBAL custom types for UUIDv7 and ULID.

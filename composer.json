@@ -34,5 +34,36 @@
   },
   "scripts": {
     "test": "phpunit --testdox"
-  }
+  },
+  "keywords": [
+    "php",
+    "uuid",
+    "uuidv7",
+    "uuid6",
+    "uuid8",
+    "ulid",
+    "snowflake",
+    "nanoid",
+    "ksuid",
+    "mongo",
+    "objectid",
+    "shortuuid",
+    "id-generator",
+    "library",
+    "ndtan"
+  ],
+  "support": {
+    "issues": "https://github.com/nguyenduytan/NDT-ID-Generator/issues",
+    "source": "https://github.com/nguyenduytan/NDT-ID-Generator"
+  },
+  "funding": [
+    {
+      "type": "github",
+      "url": "https://github.com/sponsors/nguyenduytan"
+    },
+    {
+      "type": "custom",
+      "url": "https://nguyenduytan.com"
+    }
+  ]
 }
